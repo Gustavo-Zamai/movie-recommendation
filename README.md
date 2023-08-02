@@ -30,7 +30,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
 - Javascript
-- React
+- API
 - Chat GPT
 - Git e Github
 - Figma 
@@ -51,8 +51,6 @@ Você pode visualizar o layout do projeto através [Desse Link](https://www.figm
 ## 📑 Aprendizado
 
 
-Durante o desenvolvimento desse projeto utilizei o CRA para agilizar o processo e ter o setup inicial. </br>
-Utilizei styled components para realizar a estilização da aplicação. </br>
 
 
 ---
