@@ -90,6 +90,12 @@ header button img {
     padding: 7px;
 }
 
+header button:hover {
+    border-radius: 4px;
+    background: var(--gradientes-gradiente-hover, linear-gradient(90deg, #9F55FF 0%, #FF46B9 100%));
+    cursor: pointer;
+}
+
 .movies {
     display: flex;
     gap: 36px;
@@ -161,4 +167,10 @@ header button img {
     border-radius: 4px;
     background: var(--cinza);
     color: var(--branco);
+}
+
+.movie button:hover {
+    border-radius: 4px;
+    background: var(--cinza-médio);
+    cursor: pointer;
 }
