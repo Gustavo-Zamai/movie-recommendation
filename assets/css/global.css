@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --amarelo: #FEEA35;
+    --roxo: #8323FF;
+    --rosa: #FF2DAF;
+    --branco: #FFFFFF;
+    --cinza-light: #8B8D9B;
+    --cinza-médio: #373745;
+    --cinza: #2B2B37;
+    --cinza-dark: #1E1F28;
+}
+
+body {
+    font-family: Outfit;
+}
