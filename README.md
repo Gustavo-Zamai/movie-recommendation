@@ -31,7 +31,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML e CSS
 - Javascript
 - API
-- Chat GPT
 - Git e Github
 - Figma 
  
@@ -50,7 +49,9 @@ Você pode visualizar o layout do projeto através [Desse Link](https://www.figm
 ---
 ## 📑 Aprendizado
 
-
+Durante o desenvolvimento desse projeto o maior aprendizado ficou como realizar várias sub requisições para uma API, buscando primeiro o filme que queríamos, pelo ID que vinha dela, e depois buscar nesse ID trailer, ano de lançamento, tempo de duração e afins. </br>
+Na parte de Javascript esse projeto serviu para fixar e reforçar as funções assíncronas. </br>
+Já no CSS foi para reforçar a parte de gradientes, no botão e background dessa aplicação, e fazer uma borda utilizando um outro background com position relative e absolute.
 
 
 ---
