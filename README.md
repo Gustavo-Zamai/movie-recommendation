@@ -50,8 +50,8 @@ Copiar
 Editar
 movie-recommendation/
 ├── index.html          # Main HTML file
-├── styles.css          # Custom styles
-├── script.js           # Logic and API integration
+├── global.css          # Custom styles
+├── main.js           # Logic and API integration
 ├── assets/             # Images, icons, etc.
 └── .github/preview.png # Screenshot for README
 ```
