@@ -74,7 +74,7 @@ function createMovieLayout({
             <div class="title">
                 <span>${title}</span>
                     <div>
-                        <img src="assets/images/icons/star.svg" alt="">
+                        <img src="assets/icons/star.svg" alt="">
                         <p>${rating}</p>
                     </div>
                 </div>
@@ -85,17 +85,17 @@ function createMovieLayout({
 
                 <div class="info">
                     <div class="duration">
-                        <img src="assets/images/icons/clock.svg" alt="">
+                        <img src="assets/icons/clock.svg" alt="">
                         <span>${runTime}</span>
                 </div>
                 <div class="year">
-                    <img src="assets/images/icons/calendarBlank.svg" alt="">
+                    <img src="assets/icons/calendarBlank.svg" alt="">
                     <span>${year}</span>
                 </div>
             </div>
 
                 <button onclick='watch(event)' data-id='${id}'>
-                    <img src="assets/images/icons/playButton.svg" alt="">
+                    <img src="assets/icons/playButton.svg" alt="">
                     <span>Assistir Trailer</span>
                 </button>
         </section>
